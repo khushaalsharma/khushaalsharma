@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushaal Sharma</h1>
-<h3 align="center">A passionate full stack developer from India. I am trying to learn as many technologies as many possible. Currently on ASP.NET and thinking about moving to Blockchain</h3>
+<h3 align="center">A passionate full stack developer from India. I am trying to learn as many technologies as many possible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushaalsharma&label=Profile%20views&color=0e75b6&style=flat" alt="khushaalsharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushaalsharma" alt="khushaalsharma" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET and AngularJS**
+- 🌱 I’m currently learning **Java based development**
 
 - 👨‍💻 All of my projects are available at [khushaal-sharma.vercel.app](khushaal-sharma.vercel.app)
 
